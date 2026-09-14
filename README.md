@@ -79,7 +79,7 @@ A user outside the assigned Finance group attempted to access the OIDC applicati
 | HR user accesses OIDC app | Denied | User not assigned to application | Pass |
 | MFA required for assigned user | Two-factor authentication enforced | MFA policy enforced | Pass |
 
-## Project Description
+## Project Summary
 
 **Okta OIDC SSO & MFA Access Control Lab**
 
